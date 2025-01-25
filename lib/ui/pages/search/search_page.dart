@@ -59,7 +59,7 @@ class _SearchPageState extends State<SearchPage> {
           ),
           Expanded(
             child: resultList.isEmpty
-                ? EmptyList(label: "Nenhum item encontrado")
+                ? EmptyList(label: "No result found")
                 : ListView.builder(
                     padding: EdgeInsets.only(top: 22),
                     itemCount: resultList.length,

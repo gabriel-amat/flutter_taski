@@ -1,3 +1,5 @@
-# taski
+# Taski
 
-A new Flutter project.
+Flutter challenge:
+
+https://github.com/WL-Consultings/challenges/blob/main/mobile/README.md
